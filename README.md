@@ -8,4 +8,8 @@ Juan carrasquer gonzalvo
 Samuel Rebollo Lázaro
 Akram Alioui
 Alejandro Blasco Gimeno
+<<<<<<< HEAD
+=======
+Alvaro Laita Bellido
+>>>>>>> 146b9cacef29dbd1922c4e47c0468ef1a50f1e98
 David Jimenez Marin
