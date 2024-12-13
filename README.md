@@ -8,3 +8,5 @@ Juan carrasquer gonzalvo
 Samuel Rebollo Lázaro
 Akram Alioui
 Alejandro Blasco Gimeno
+Alvaro Laita Bellido
+David Jimenez Marin
