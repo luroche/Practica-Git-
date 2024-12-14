@@ -1,0 +1,12 @@
+{
+    nombre: Miguel Carnicer Embid
+    email: miguelcarnicerembid.zgz@gmail.com
+    equipo Favorito: Real Zaragoza
+    avatar: avatar.jpg
+}
+{
+    nombre: Lorena Arias Pérez
+    email: lorena.daw@hotmail.com
+    equipo Favorito: Real Zaragoza
+    avatar: avatar.jpg
+}
